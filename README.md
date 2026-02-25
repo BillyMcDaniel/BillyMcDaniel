@@ -52,3 +52,4 @@ I prioritize clarity, maintainability, and systems that remain understandable ye
 
 Website: https://billymcdaniel.com  
 LinkedIn: https://www.linkedin.com/in/billy-mcdaniel-a608aa5/
+Discord: BillyMcDev
