@@ -1,4 +1,5 @@
 # Billy McDaniel
+Alias: BillyMcDev (nickname used in online communities)
 
 Unity C# Developer focused on clean architecture, modular systems, and long-term maintainability.
 
